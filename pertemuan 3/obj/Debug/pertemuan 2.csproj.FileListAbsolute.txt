@@ -1,0 +1,11 @@
+E:\jokian\rifqa\pertemuan 2\bin\Debug\pertemuan 2.exe.config
+E:\jokian\rifqa\pertemuan 2\bin\Debug\pertemuan 2.exe
+E:\jokian\rifqa\pertemuan 2\bin\Debug\pertemuan 2.pdb
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.csproj.AssemblyReference.cache
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.csproj.SuggestedBindingRedirects.cache
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan_2.Form1.resources
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan_2.Properties.Resources.resources
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.csproj.GenerateResource.cache
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.csproj.CoreCompileInputs.cache
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.exe
+E:\jokian\rifqa\pertemuan 2\obj\Debug\pertemuan 2.pdb
